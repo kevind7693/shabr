@@ -9,3 +9,9 @@ h3{
 .center{
      text-align:center;
 }
+
+.smaller-img{
+    height:50px;
+    width:50px;
+}
+
