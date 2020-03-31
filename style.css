@@ -4,6 +4,7 @@ h3{
 
 .subtext{
     font-weight:bold;
+    font-size:25px;
 }
 
 .center{
@@ -15,3 +16,17 @@ h3{
     width:50px;
 }
 
+  @media only screen and (max-width: 600px) {
+    .subtext {
+       font-size:20px;
+    }
+}
+
+.spacing{
+    padding-top:100px;
+}
+
+.img{
+    height:250px;
+    width:250px;
+}
